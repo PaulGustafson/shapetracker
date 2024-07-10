@@ -1,5 +1,3 @@
-# Definitions
-
 **Definition 1:** A **shape** is a tuple $d = (d_1, \ldots, d_n) \in \mathbb{N}^n$ for some $n \in \mathbb{N}$. To every shape $d$, we associate an index set 
 $I(d) = \mathbb{Z}_{d_1} \times \cdots \mathbb{Z}_{d_n}$.
 
